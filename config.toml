@@ -1,5 +1,4 @@
-baseURL = "https://laughing-panini-5a20d2.netlify.app/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Open Initiative"
-theme = "open"
-disableKinds = ["taxonomyTerm"]
+title = "My New Hugo Site"
+theme = "ananke"
